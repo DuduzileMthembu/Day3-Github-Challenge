@@ -1,0 +1,8 @@
+I now know these commands 
+
+git init - Starts tracking folder and creates a hidden git folder
+git status - Shows what has changed and what has staged
+git add - Stages everything you have staged for the next commit
+git commit - Saves a snapshot with a description
+git push - Uploads repository to Github
+git pull - Downloads repositories from Github
