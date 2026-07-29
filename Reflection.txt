@@ -1,0 +1,22 @@
+Day3 Reflection
+
+This is what i learned Today
+-The difference between Git and Github
+-Creating a repository on Github, Git and VSCode
+-Different commands and when to use them
+
+What was the most challenging part
+-Creating a repository on Git 
+
+Why is GitHub important?
+-It safely stores your code and allows for sharing of code
+-It is a platform used by employers who would want to see your work
+
+Explain the three Git Stages
+git init- working directory where you are editing your untracked files
+Git add - It chooses whats next during the staging area
+Git commit - It saves a permanent record -a repository
+
+Explain Push and Pull
+Push - Uploads to Github
+Pull - Downloads from Github
