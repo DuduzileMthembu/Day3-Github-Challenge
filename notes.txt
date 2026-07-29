@@ -1,0 +1,8 @@
+Today I learned that
+
+Git- Is a software that tracks any changes made to code, programs and documents.
+Github- Is an online platform used for sharing and storing git repositories.
+Repository- A folder where git tracks all changes to your code.
+Pull- Downloads from Github
+Push- Uploads to github
+Source control- A system that tracks and saves changes to your code or files overtime.
